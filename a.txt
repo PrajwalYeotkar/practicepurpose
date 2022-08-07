@@ -1,2 +1,0 @@
-modif a.txt
-modify a.txt
